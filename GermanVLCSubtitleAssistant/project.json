@@ -1,0 +1,9 @@
+{
+  "project": "German VLC Subtitle Assistant",
+  "version": "0.1.0",
+  "python": "3.11 x64",
+  "default_model": "large-v3-turbo",
+  "compute_type": "int8",
+  "translation": "Argos Translate German to English",
+  "platform": "Windows 10/11; generated SRTs intended for VLC Windows and Android"
+}

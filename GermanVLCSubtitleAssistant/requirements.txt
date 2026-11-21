@@ -1,0 +1,5 @@
+# Tested project target: Windows 10/11 x64, Python 3.11 x64
+# Install with: python -m pip install -r requirements.txt
+faster-whisper==1.2.1
+ctranslate2==4.6.1
+argostranslate==1.10.0
